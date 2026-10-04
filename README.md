@@ -83,4 +83,4 @@ wind-scada-dashboard/
 
 **Fazeel** — M.Eng. student in Renewable Energy Systems at Hochschule Nordhausen, Germany. Built as a portfolio project targeting Werkstudent and internship roles in the German energy sector.
 
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/fazeel-darain-shaikh-026617143) · [GitHub](https://github.com/fazeelshaikh73733-tech)
