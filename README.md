@@ -4,9 +4,6 @@ An interactive Streamlit dashboard that analyzes real wind turbine SCADA data to
 
 🔗 **Live demo:** https://wind-scada-fazeel.streamlit.app/
 
-![Power Curve Screenshot](screenshots/power_curve.png)
-*(add a screenshot here — see "Screenshots" section below)*
-
 ---
 
 ## Why this project
