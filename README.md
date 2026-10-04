@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard that analyzes real wind turbine SCADA data to detect and classify curtailment and anomaly events — with a specific focus on **Einspeisemanagement** (grid feed-in management), a German grid-regulation mechanism under the EEG (Erneuerbare-Energien-Gesetz).
 
-🔗 **Live demo:** [add your Streamlit Cloud link here once deployed]
+🔗 **Live demo:** https://wind-scada-fazeel.streamlit.app/
 
 ![Power Curve Screenshot](screenshots/power_curve.png)
 *(add a screenshot here — see "Screenshots" section below)*
